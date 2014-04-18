@@ -1,0 +1,12 @@
+diff --git a/hi b/hi
+index 683bba4..394bb9f 100644
+--- a/hi
++++ b/hi
+@@ -1,5 +1,7 @@
+ hi git 2014-04-17
+ 123123
++xxx
+ 111
+ 222
+ 333
++yyy
